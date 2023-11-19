@@ -2,4 +2,4 @@
 LEFEBVRE Julien, MERCIER Loris
 
 ## Récupération des données
-https://we.tl/t-YBEPC6EooA
+Les données étant trop volumineuses pour être stockées sur GitHub, elles sont disponibles sur le lien suivant : https://we.tl/t-YBEPC6EooA
